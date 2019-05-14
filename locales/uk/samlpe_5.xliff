@@ -33,6 +33,7 @@
       </trans-unit>
       <trans-unit id="661">
         <source xml:space="preserve">ДОСТУПНА</source>
+        <target>цкеп</target>
         <note priority="1" from="description">Статус задачи</note>
         <note priority="1" from="meaning">Самый первый статус, который получает задача, назначенная пользователю.</note>
       </trans-unit>
