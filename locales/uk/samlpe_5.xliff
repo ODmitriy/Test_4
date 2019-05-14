@@ -49,6 +49,7 @@
       </trans-unit>
       <trans-unit id="671">
         <source xml:space="preserve">НЕДОСТУПНА</source>
+        <target>\szdxc</target>
         <note priority="1" from="description">Статус задачи</note>
         <note priority="1" from="meaning">Данный статус имеет задача, которая еще не была назначена пользователю.</note>
       </trans-unit>
